@@ -13,8 +13,20 @@
 now新闻,http://51.222.193.142:10011/9
 now新闻,http://api.leonardpark.dev/live/now/332
 now直播,http://51.222.193.142:10011/8
+中天新闻,http://60.251.59.179:8529/http/192.168.77.24:8081/hls/64/806/ch16.m3u8
+中天新闻,http://60.251.59.179:8529/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+中天新闻,http://60.251.59.179:8502/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 中天新闻,http://60.249.146.250:8595/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+东森新闻,http://60.249.146.250:8594/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+三立新闻,http://60.249.146.250:8597/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立新闻,http://60.249.146.250:8564/http/60.251.39.91:8066/hls/210/10018/cstv18.m3u8
+壹新闻,http://60.249.146.250:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+民视新闻,http://60.249.146.250:8596/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+华视新闻,http://60.249.146.250:8592/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+寰宇新闻,http://60.249.146.250:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+年代新闻,http://60.249.146.250:8519/http/60.251.39.91:8081/hls/66/808/ch22.m3u8
+年代新闻,http://60.249.146.250:8593/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 东森新闻,http://60.249.146.250:8594/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 三立新闻,http://60.249.146.250:8597/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 壹新闻,http://60.249.146.250:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
@@ -1650,9 +1662,13 @@ SSIS-323白坂美杏,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https:/
 JUL-843Lily Hart,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/jul-843/
 SSIS-301夢乃愛華,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/ssis-301/
 JUFE-367碓冰蓮,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/jufe-367/
+ssni-789吉冈,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/ssni-789/
+cawd-243伊藤舞雪,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/cawd-243bf/
+pppd-812夏天,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/pppd-812/
 大小姐,https://v10.ripic.xyz/5fb0f14388006e8971a038c1/video.m3u8
 闺蜜,https://v10.ripic.xyz/60d05f73cf7f29af26966b21/video.m3u8
 怀疑,https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
 5分钟,https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
 机器人,https://v10.ripic.xyz/5ebe87fb893e3dcf5305a3d2/video.m3u8
+穆娜,https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
 岬奈奈美,https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
