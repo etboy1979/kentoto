@@ -37,6 +37,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 年代新闻,http://60.249.146.250:8593/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 华视资讯,http://60.249.146.250:8592/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 CNN,http://60.249.146.250:8549/http/60.251.39.91:8081/hls/68/810/ch29.m3u8
+CNN,http://60.249.146.250:8549/http/60.251.39.91:8081/hls/68/810/ch29.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
@@ -55,6 +56,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
 J2,http://120.84.96.32:808/hls/86/index.m3u8
 ViuTV,http://radius.8866.org:880/hls/86/index.m3u8
+ViuTV,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 台视,http://60.249.146.250:8548/http/60.251.39.91:8081/hls/72/814/ch46.m3u8
 中视,http://60.249.146.250:8502/http/60.251.39.91:8081/hls/72/814/ch47.m3u8
 华视,http://60.249.146.250:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
