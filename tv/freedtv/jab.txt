@@ -1817,6 +1817,19 @@ SMBD-55長澤梓,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jab
 072013-387尾野真知子,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/072013-387/
 
 $精选_q,#genre#
+midv-108小野六花,https://t18.cdn2020.com:12342/video/m3u8/2022/05/24/d3007256/index.m3u8
+pppe-006桃瀬,https://t16.cdn2020.com:12340/video/m3u8/2022/03/02/1e0b5526/index.m3u8
+pppd-994桃瀬,https://t16.cdn2020.com:12340/video/m3u8/2022/03/09/f1ed4bec/index.m3u8
+pppe-014桃瀬,https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/57026e9b/index.m3u8
+pppe-021桃瀬,https://t18.cdn2020.com:12342/video/m3u8/2022/05/06/70ed3b22/index.m3u8
+miaa-639白桃花,https://t18.cdn2020.com:12342/video/m3u8/2022/05/23/d6e78dca/index.m3u8
+pppe-037吉岡日高,https://t18.cdn2020.com:12342/video/m3u8/2022/05/23/581ad84d/index.m3u8
+ebod-911蜜美杏,https://t18.cdn2020.com:12342/video/m3u8/2022/05/21/3db77e9a/index.m3u8
+dasd-969蜜美杏,https://t16.cdn2020.com:12340/video/m3u8/2022/03/07/4d4d2441/index.m3u8
+ABP-997蜜美杏,https://t4s.cdn2020.com/video/m3u8/2020/08/19/b550b442/index.m3u8
+jufe-361蜜美杏,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/1c033889/index.m3u8
+fsdss-400時田亜美,https://t18.cdn2020.com:12342/video/m3u8/2022/05/20/b1429f22/index.m3u8
+ipx-868桜空,https://t18.cdn2020.com:12342/video/m3u8/2022/05/20/59aa0c1b/index.m3u8
 FSDSS-351橋本有菜,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/fsdss-351/
 SSIS-306天音真比奈,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/ssis-306/
 SSIS-309小宵虎南,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable.tv/videos/ssis-309/
@@ -1846,6 +1859,11 @@ pppd-812夏天,http://for40255.sytes.net:8099/tv/j/jable_1.php?url=https://jable
 5分钟,https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
 机器人,https://v10.ripic.xyz/5ebe87fb893e3dcf5305a3d2/video.m3u8
 穆娜,https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
+余小雅,https://t10.cdn2020.com:12335/video/m3u8/2021/08/26/a5da82ef/index.m3u8
+绫波丽1,https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/9ff18338/index.m3u8
+绫波丽2,https://t13.cdn2020.com:12338/video/m3u8/2021/11/18/875d40b5/index.m3u8
+婷萝莉,https://t18.cdn2020.com:12342/video/m3u8/2022/05/23/9e455ed0/index.m3u8
+MCY-005沈娜娜,https://t18.cdn2020.com:12342/video/m3u8/2022/05/17/1dd162b1/index.m3u8
 岬奈奈美,https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
 
 updates_q,#genre#
